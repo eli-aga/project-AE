@@ -14,8 +14,6 @@ In the following sections, you can read more about our [Link to another page](./
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
