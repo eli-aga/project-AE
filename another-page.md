@@ -80,6 +80,33 @@ FILTER(REGEX(?label , "zoo" , "i"))
 }
 ```
 
+Our fifth query aimed at specifying the region of these zoological museums. We wanted to explore zoological museums in the region of Emilia Romagna. 
+Running the below sparql query, we found no results.
+
+```js
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX arco: <https://w3id.org/arco/ontology/arco/>
+
+SELECT DISTINCT ?cp ?label
+WHERE
+{?cp rdfs:label ?label ;
+rdf:type arco:CulturalInstituteOrSite
+{?cp arco:regionIdentifier "8" }
+UNION
+{?cp arco:regionIdentifier "6" }
+FILTER(REGEX(?label , "museo di zoologia" , "i"))
+}
+```
+
+This could be due to a missing link between the zoological museums and their respective regions.
+
+However, we decided to explore the “Museo di zoologia di Bologna” in more detail
+![Screenshot 2024-06-17 at 19 39 29](https://github.com/eli-aga/project-AE/assets/171020684/5419dc35-a7f5-4ff8-9f67-d869f6231a2d)
+
+
+
+
 
 
 
