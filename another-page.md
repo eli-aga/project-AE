@@ -105,7 +105,7 @@ However, we decided to explore the “Museo di zoologia di Bologna” in more de
 ![Screenshot 2024-06-17 at 19 39 29](https://github.com/eli-aga/project-AE/assets/171020684/5419dc35-a7f5-4ff8-9f67-d869f6231a2d)
 
 
-The next step was then to use LLMs to enrich (./another-page2.html). the ArCo page about the Zoology Museum of Bologna (https://dati.beniculturali.it/lodview/mibact/luoghi/resource/CulturalInstituteOrSite/101952.html) 
+The next step was then to use LLMs to [enrich](./another-page2.html).  the ArCo page about the Zoology Museum of Bologna (https://dati.beniculturali.it/lodview/mibact/luoghi/resource/CulturalInstituteOrSite/101952.html) 
 
 
 
