@@ -4,5 +4,12 @@ layout: default
 
 ## Discussion
 
-The first thing we did was define an area of knowledge we were interested in.
-We were interested in zoology, so we chose the class of **cultural institutions or sites**
+| problems     | l                 | three |
+|:-------------|:------------------|:------|
+| Even with the help of chatGPT
+| we could not find a link between 
+| the region identifier 
+| and the zoology museum| good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
