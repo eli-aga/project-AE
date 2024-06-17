@@ -9,6 +9,9 @@ We were interested in zoology, so we chose the class of **cultural institutions 
 
 The aim of our first query, shown below, was to find all the zoology-related sites present in ArCo, under the class Cultural Institution or Site
 
+
+
+
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX cis: <http://dati.beniculturali.it/cis/>
