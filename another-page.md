@@ -30,6 +30,7 @@ This query gave us an extensive table of results, which included libraries, coll
 
 Our second query was carried out in order to count the results found, of which there were 71.
 
+```js
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX cis: <http://dati.beniculturali.it/cis/>
@@ -40,10 +41,12 @@ WHERE
 rdf:type cis:CulturalInstituteOrSite .
 FILTER(REGEX(?label , "zoo" , "i"))
 }
+```
 
 Thirdly, we decided we wanted to explore in detail the zoological museums.
 We ran this query, which meant we excluded the libraries and collections from the results:
 
+```js
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX cis: <http://dati.beniculturali.it/cis/>
@@ -58,10 +61,12 @@ OPTIONAL {?cp foaf:depiction ?depiction}
 } 
 ORDER BY (?label)
 LIMIT 250
+```
 
 
 We then counted these zoological, or zoo-related museums present in ArCo under: Cultural Institutes or Sites and found 20
 
+```js
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX cis: <http://dati.beniculturali.it/cis/>
@@ -73,6 +78,8 @@ rdf:type cis:CulturalInstituteOrSite .
 FILTER(REGEX(?label , "museo" , "i"))
 FILTER(REGEX(?label , "zoo" , "i"))
 }
+```
+
 
 
 
