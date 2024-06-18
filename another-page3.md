@@ -3,12 +3,14 @@
 Once we had decided to focus on the _Museo di Zoologia di Bologna_, we made use of LLMs (Chat GPT and Gemini) to enrich the existing information.
 
 We began by asking them simple questions about what should be included in such a website. These are shown below.
-![Screenshot 2024-06-18 at 18 16 02](https://github.com/eli-aga/project-AE/assets/171020684/fafd6fd8-b7dd-493b-b64f-48053ba57f19)![Screenshot 2024-06-18 at 18 16 22](https://github.com/eli-aga/project-AE/assets/171020684/89a84436-8e08-4049-89f9-4275573755f2)
-![Screenshot 2024-06-18 at 18 16 57](https://github.com/eli-aga/project-AE/assets/171020684/dcd1a7d9-1c1e-4fc9-9e4b-dff7f1c97a09)![Screenshot 2024-06-18 at 18 18 18](https://github.com/eli-aga/project-AE/assets/171020684/f9903881-1fdf-4f32-aad3-d1b813907c1e)
-![Screenshot 2024-06-18 at 18 18 32](https://github.com/eli-aga/project-AE/assets/171020684/cebdde43-58b4-437d-8f23-35fe8cc9003d)![Screenshot 2024-06-18 at 18 19 10](https://github.com/eli-aga/project-AE/assets/171020684/5357e722-74e8-4fda-8b3a-ef778c0bcb40)
-![Screenshot 2024-06-18 at 18 23 09](https://github.com/eli-aga/project-AE/assets/171020684/feda63bd-8ab7-472b-9ed5-33ef69201d91)![Screenshot 2024-06-18 at 18 23 26](https://github.com/eli-aga/project-AE/assets/171020684/f0ad9d65-3610-4b6f-bccc-8aa0b62eb511)
-![Screenshot 2024-06-18 at 18 23 47](https://github.com/eli-aga/project-AE/assets/171020684/c19b2071-cadf-43fc-a08a-bea6bd067437)
 
+![Screenshot 2024-06-18 at 19 02 36](https://github.com/eli-aga/project-AE/assets/171020684/598dbd15-07f2-4df8-b4f5-4342d20dec27)
+
+![Screenshot 2024-06-18 at 19 02 59](https://github.com/eli-aga/project-AE/assets/171020684/5a718aac-e6b2-42d3-a696-ce4f9e8b0b20)
+
+![Screenshot 2024-06-18 at 19 03 14](https://github.com/eli-aga/project-AE/assets/171020684/8cec874a-0770-4b71-83c8-8b55e388ab4c)
+
+![Screenshot 2024-06-18 at 19 03 25](https://github.com/eli-aga/project-AE/assets/171020684/4536056f-5ab7-4394-a795-ca6cc0d7da76)
 
 
 This helped us to find out that the page of the Museo di Zoologia di Bologna could be improved: for example, ChatGPT proposed to add information about student resources.
