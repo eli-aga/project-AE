@@ -11,14 +11,6 @@ We began by asking them simple questions about what should be included in such a
 
 
 
-
-
-[SCREENSHOTS]
-
-
-
-
-
 This helped us to find out that the page of the Museo di Zoologia di Bologna could be improved: for example, ChatGPT proposed to add information about student resources.
 
 Taking advantage of this, we created new triples based on the information provided by ChatGPT in order to enrich the _Museo di zoologia di Bologna_.
