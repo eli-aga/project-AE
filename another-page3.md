@@ -33,9 +33,9 @@ We also wanted to specify that the museum was located in Bologna, so we proposed
 
 ![Screenshot 2024-06-18 at 13 27 02](https://github.com/eli-aga/project-AE/assets/171020684/670a1125-4df5-4e05-91c5-a30662c6b03c)
 
-[https://example.org/city/bologna]    
+https://example.org/city/bologna   
 **core:isLocationOf**
-[https://dati.beniculturali.it/lodview/mibact/luoghi/resource/CulturalInstituteOrSite/101952.html] 
+https://dati.beniculturali.it/lodview/mibact/luoghi/resource/CulturalInstituteOrSite/101952.html
 
 Finally, we asked Gemini and ChatGPT for some of the most important collections and artefacts present in the musuem. It emerged that most of the collections present in the _Museo di Zoologia_ are not present in the ArCo database. We therefore proposed two final new triples to enrich the ArCo ontology with additional information
 
@@ -55,3 +55,4 @@ https://w3id.org/arco/resource/ZoologicalHeritage/RinoceronteIndiano
 
 ![Screenshot 2024-06-18 at 13 29 45](https://github.com/eli-aga/project-AE/assets/171020684/37be422e-2b1c-475e-b6e4-a1407a236788)
 
+Click here to [read](./another-page2.html) about our concluding remarks.
