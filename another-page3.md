@@ -55,4 +55,4 @@ https://w3id.org/arco/resource/ZoologicalHeritage/RinoceronteIndiano
 
 ![Screenshot 2024-06-18 at 13 29 45](https://github.com/eli-aga/project-AE/assets/171020684/37be422e-2b1c-475e-b6e4-a1407a236788)
 
-Click here to [read](./another-page2.html) about our concluding remarks.
+Click [here](./another-page2.html) to read about our concluding remarks.
