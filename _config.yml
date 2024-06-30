@@ -1,5 +1,15 @@
 title: Museo di Zoologia di Bologna
 description: Exploring and Integrating with ArCo ontologies. An ITS Project 
+navigation:
+  - name: Home
+    link: [https://eli-aga.github.io/project-AE/]
+  - name: Methodogy
+    link: /another-page.md
+  - name: Enrichment
+    link: /another-page3.md
+  - name: Discussion
+    link: /another-page2.md
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-merlot
