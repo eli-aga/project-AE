@@ -5,7 +5,7 @@ layout: default
 Hi there!
 
 We are Agata and Elisabetta, two students from the [University of Bologna](./https://www.unibo.it/it).
-This is a website about our project, which is part of the academic assessment for the “Information and Technology Skills” course in the Master’s program “Language, Society, and Communication”. 
+This is a website about our project, which is part of the academic assessment for the [“Information and Technology Skills”](./https://www.unibo.it/it/studiare/dottorati-master-specializzazioni-e-altra-formazione/insegnamenti/insegnamento/2023/402023) course in the Master’s program [“Language, Society, and Communication”](./https://corsi.unibo.it/2cycle/LanguageSocietyCommunication/index.html). 
 
 Our project focuses on exploring the ARCO knowledge graph using SPARQL queries with the aim of enriching the knowledge graph.
 To do that, we decided to use and compare different language models, such as ChatGPT and Gemini.
