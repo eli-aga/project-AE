@@ -17,14 +17,11 @@
         $('#main_content').headsmart()
       })
     </script>
-    
+
 {% seo %}
 
 {% include head-custom.html %}
   </head>
-
-  <body>
-    <div class="shell">
 
       <header>
         <div class="ribbon-outer">
@@ -37,6 +34,19 @@
         </div>
       </header>
 
+      {% if site.show_downloads %}
+        <section id="downloads">
+          <span class="inner">
+            <a href="{{ site.github.zip_url }}" class="zip"><em>download</em> .ZIP</a><a href="{{ site.github.tar_url }}" class="tgz"><em>download</em> .TGZ</a>
+          </span>
+        </section>
+      {% else %}
+        <div id="no-downloads">
+          <span class="inner">
+          </span>
+        </div>
+      {% endif %}
+
 
       <span class="banner-fix"></span>
 
@@ -44,8 +54,7 @@
       <section id="main_content">
         {{ content }}
       </section>
-      
-      
+
       <footer>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
