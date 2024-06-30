@@ -4,7 +4,7 @@ layout: default
 
 
 
-[HOME](https://eli-aga.github.io/project-AE/) || [METHODOLOGY](./another-page.html) || [ENRICHMENT](./another-page3.html) ||[DISCUSSION](./another-page2.html)
+[HOME](https://eli-aga.github.io/project-AE/) || [METHODOLOGY](./another-page.html) || [ENRICHMENT](./another-page3.html) || [DISCUSSION](./another-page2.html)
 
 
 
