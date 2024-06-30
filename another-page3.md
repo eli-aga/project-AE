@@ -5,6 +5,7 @@ layout: default
 [HOME](https://eli-aga.github.io/project-AE/) || [METHODOLOGY](./another-page.html) || [ENRICHMENT](./another-page3.html) || [DISCUSSION](./another-page2.html)
 
 
+
 ## Enrichment
 
 Once we had decided to focus on the _Museo di Zoologia di Bologna_, we made use of LLMs (Chat GPT and Gemini) to enrich the existing information.
