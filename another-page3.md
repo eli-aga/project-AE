@@ -75,6 +75,25 @@ We also used the **generated knowledge prompting technique** to find out more ab
 __![Screenshot 2024-07-01 at 14 59 24](https://github.com/eli-aga/project-AE/assets/171020684/747aa874-e261-4257-a2f9-1bb4c6e2d06d)
 
 
+Here is an overview of the **prompting techniques** we used: 
+1) **Zero-Shot prompting**: _Involves asking the model to perform a task without providing examples. This approach relies on the model's pre-trained knowledge to generate a response
+_
+![Screenshot 2024-07-01 at 15 05 09](https://github.com/eli-aga/project-AE/assets/171020684/356a3522-52a3-4af5-8c88-915642dbb932)
+
+2) **Few-Shot prompting**: _It refers to when a model adapts pre-trained language models quickly and effectively for new tasks or domains with only a few examples (shots) of data._
+
+![Screenshot 2024-07-01 at 15 06 07](https://github.com/eli-aga/project-AE/assets/171020684/a60a106b-316d-4b3e-95fb-4416989bfec1)
+
+3) **Generated Knowledge prompting**: _Involves generating a knowledge background that can help the model perform a task more effectively_
+   
+![Screenshot 2024-07-01 at 15 05 38](https://github.com/eli-aga/project-AE/assets/171020684/7f7fff5f-d546-4fec-aa06-6de7d9f633a1)
+
+
+4) **Chain-of-thought prompting**: _It involves a series of examples that guide the tool to think through problems step-by-step._
+5) 
+![Screenshot 2024-07-01 at 15 06 56](https://github.com/eli-aga/project-AE/assets/171020684/5c55dbc6-1102-4bc1-ad05-7335e4557566)
+
+
 
 Click [here](./another-page2.html) to read about our concluding remarks.
 
