@@ -71,7 +71,7 @@ https://w3id.org/arco/resource/ZoologicalHeritage/RinoceronteIndiano
 
 ![Screenshot 2024-06-18 at 13 29 45](https://github.com/eli-aga/project-AE/assets/171020684/37be422e-2b1c-475e-b6e4-a1407a236788)
 
-We alsi used the **generated knowledge prompting technique** to find out more about the _Pesce Luna_:
+We also used the **generated knowledge prompting technique** to find out more about the _Pesce Luna_:
 __![Screenshot 2024-07-01 at 14 59 24](https://github.com/eli-aga/project-AE/assets/171020684/747aa874-e261-4257-a2f9-1bb4c6e2d06d)
 
 
