@@ -71,13 +71,12 @@ https://w3id.org/arco/resource/ZoologicalHeritage/RinoceronteIndiano
 
 ![Screenshot 2024-06-18 at 13 29 45](https://github.com/eli-aga/project-AE/assets/171020684/37be422e-2b1c-475e-b6e4-a1407a236788)
 
-We also used the **generated knowledge prompting technique** to find out more about the _Pesce Luna_:
-__![Screenshot 2024-07-01 at 14 59 24](https://github.com/eli-aga/project-AE/assets/171020684/747aa874-e261-4257-a2f9-1bb4c6e2d06d)
+
 
 
 Here is an overview of the **prompting techniques** we used: 
-1) **Zero-Shot prompting**: _Involves asking the model to perform a task without providing examples. This approach relies on the model's pre-trained knowledge to generate a response
-_
+
+1) **Zero-Shot prompting**: _Involves asking the model to perform a task without providing examples. This approach relies on the model's pre-trained knowledge to generate a response_
 ![Screenshot 2024-07-01 at 15 05 09](https://github.com/eli-aga/project-AE/assets/171020684/356a3522-52a3-4af5-8c88-915642dbb932)
 
 2) **Few-Shot prompting**: _It refers to when a model adapts pre-trained language models quickly and effectively for new tasks or domains with only a few examples (shots) of data._
