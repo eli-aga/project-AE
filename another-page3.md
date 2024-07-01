@@ -9,7 +9,7 @@ layout: default
 
 Once we had decided to focus on the _Museo di Zoologia di Bologna_, we made use of LLMs (Chat GPT and Gemini) to enrich the existing information.
 
-We began by asking them simple questions about what should be included in such a website. These are shown below.
+We began by asking them simple questions about what should be included in such a website. These are shown below. Here, we used the **zero-shot prompting technique**
 
 ![Screenshot 2024-06-18 at 19 02 36](https://github.com/eli-aga/project-AE/assets/171020684/598dbd15-07f2-4df8-b4f5-4342d20dec27)
 
@@ -53,7 +53,7 @@ https://example.org/city/bologna
 **core:isLocationOf**
 https://dati.beniculturali.it/lodview/mibact/luoghi/resource/CulturalInstituteOrSite/101952.html
 
-Finally, we asked Gemini and ChatGPT for some of the most important collections and artefacts present in the musuem. It emerged that most of the collections present in the _Museo di Zoologia_ are not present in the ArCo database. We therefore proposed two final new triples to enrich the ArCo ontology with additional information
+Finally, we asked Gemini and ChatGPT for some of the most important collections and artefacts present in the musuem. This was carried out using the **zero-shot prompting technique** It emerged that most of the collections present in the _Museo di Zoologia_ are not present in the ArCo database. We therefore proposed two final new triples to enrich the ArCo ontology with additional information
 
 
 **NEW TRIPLE 4**
@@ -70,6 +70,11 @@ https://dati.beniculturali.it/lodview/mibact/luoghi/resource/CulturalInstituteOr
 https://w3id.org/arco/resource/ZoologicalHeritage/RinoceronteIndiano 
 
 ![Screenshot 2024-06-18 at 13 29 45](https://github.com/eli-aga/project-AE/assets/171020684/37be422e-2b1c-475e-b6e4-a1407a236788)
+
+We alsi used the **generated knowledge prompting technique** to find out more about the _Pesce Luna_:
+__![Screenshot 2024-07-01 at 14 59 24](https://github.com/eli-aga/project-AE/assets/171020684/747aa874-e261-4257-a2f9-1bb4c6e2d06d)
+
+
 
 Click [here](./another-page2.html) to read about our concluding remarks.
 
